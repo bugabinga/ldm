@@ -1,3 +1,7 @@
 *.o
 *.swp
 ldm
+ldm.1
+ldmc
+ldmc.1
+ldm.service
